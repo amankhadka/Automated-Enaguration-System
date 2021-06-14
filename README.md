@@ -3,6 +3,7 @@ The system utilizes NodeMCU enabled with  ESP8266 WiFi. The controller controls 
 The project utilizes NodeMCU as the controller and creates a WiFi access point, through which we can control the moter with the mobile device. A built incode for Web server facilitates the control accessible from any web browser.
 
 Used Items:
+
 NodeMCU with ESP8266
 DC moter controller
 DC Morter
@@ -10,6 +11,6 @@ DC Morter
 Connecting Wires
 12 V Battery
 
-Whern We connect required items and program the controller with Ardiono IDE we can access the device through browser.
+When we connect required items and program the controller with Ardiono IDE we can access the device through browser.
 First of all we need to connect the device to Enaguration WiFi enabled from controller with password "P@ssw0rd"
 Then access the webpage with IP: 192.168.4.1, Now we can contoll the morter as we desire.
