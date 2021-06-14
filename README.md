@@ -4,12 +4,12 @@ The project utilizes NodeMCU as the controller and creates a WiFi access point, 
 
 Used Items:
 
-NodeMCU with ESP8266
-DC moter controller
-DC Morter
-12 V Battery
-Connecting Wires
-12 V Battery
+NodeMCU with ESP8266,
+DC moter controller,
+DC Morter,
+12 V Battery,
+Connecting Wires,
+12 V Battery.
 
 When we connect required items and program the controller with Ardiono IDE we can access the device through browser.
 First of all we need to connect the device to Enaguration WiFi enabled from controller with password "P@ssw0rd"
